@@ -1,7 +1,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 
-### Hi there 👋
+### Hi there friends👋
 
 <!--
 **himhemant/himhemant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
